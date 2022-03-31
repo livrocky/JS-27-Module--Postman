@@ -1,0 +1,23 @@
+GET  https://zany-skitter-caper.glitch.me/experiences
+
+###
+
+POST  https://zany-skitter-caper.glitch.me/experiences
+Content-Type:application/json
+
+{
+"companyName": "NASA",
+"position": "ENGINEER",
+"description": "do ajeeee",
+"startYear": 2013,
+"finishYear": 2015
+}
+
+###
+
+GET https://api.chucknorris.io/jokes/random
+
+###
+
+
+GET https://api.chucknorris.io/jokes/categories
